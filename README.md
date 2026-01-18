@@ -117,41 +117,11 @@
 
 <h2 id="-projects" align="center">🔥 Öne Çıkan Projeler (Portfolio)</h2>
 
-<div align="center">
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px;">
-      <h3 align="center">🕋 ask.makam (AI Coach)</h3>
-      <p align="center">
-        Yapay zeka destekli Kuran ve makam eğitimi platformu. Kullanıcı sesini analiz eder ve intonasyon (makam) doğruluğunu raporlar.
-      </p>
-      <p align="center">
-        <code>.NET 8</code> <code>Angular</code> <code>Python (AI)</code> <code>Microservices</code>
-      </p>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-orange?style=flat-square">
-        </a>
-      </div>
-    </td>
-
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px;">
-      <h3 align="center">🚛 bzmsahinlojistik.com</h3>
-      <p align="center">
-        Şahin Lojistik için geliştirilen kurumsal web arayüzü ve yük takip sistemi. SEO uyumlu, yüksek performanslı mimari.
-      </p>
-      <p align="center">
-        <code>Web Design</code> <code>SEO</code> <code>Hosting Management</code> <code>Frontend</code>
-      </p>
-      <div align="center">
-        <a href="https://bzmsahinlojistik.com">
-           <img src="https://img.shields.io/badge/Canlı-Siteyi_Görüntüle-success?style=flat-square&logo=google-chrome&logoColor=white">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
+| 🕋 ask.makam (AI Coach) | 🚛 bzmsahinlojistik.com |
+| :---: | :---: |
+| **Yapay Zeka Destekli Eğitim** <br> Kullanıcının sesini analiz ederek Kuran ve makam eğitimi veren AI asistanı. | **Kurumsal Lojistik Sistemleri** <br> Şahin Lojistik için geliştirilen SEO uyumlu, yüksek performanslı kurumsal web arayüzü. |
+| `AI` `.NET 8` `Angular` `Python` | `Web Design` `SEO` `Frontend` |
+| [![Durum](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-orange?style=flat-square)](https://github.com/kerimarat) | [![Website](https://img.shields.io/badge/Canlı-Siteyi_Görüntüle-success?style=flat-square&logo=google-chrome&logoColor=white)](https://bzmsahinlojistik.com) |
 
 <br/>
 <hr style="border-top: 1px solid #30363d;">
