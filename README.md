@@ -157,12 +157,12 @@
         </a>
       </td>
       <td>
-        <a href="https://linkedin.com/in/kerimarat" target="_blank">
+        <a href="https://linkedin.com/in/kerim-ARAT" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
       </td>
       <td>
-        <a href="mailto:email@adresiniz.com">
+        <a href="mailto:contact@kerimarat.com">
           <img src="https://img.shields.io/badge/Email-Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
         </a>
       </td>
