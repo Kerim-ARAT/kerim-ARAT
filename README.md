@@ -121,7 +121,7 @@
 | :---: | :---: |
 | **Yapay Zeka Destekli Eğitim** <br> Kullanıcının sesini analiz ederek Kuran ve makam eğitimi veren AI asistanı. | **Kurumsal Lojistik Sistemleri** <br> Şahin Lojistik için geliştirilen SEO uyumlu, yüksek performanslı kurumsal web arayüzü. |
 | `AI` `.NET 8` `Angular` `Python` | `Web Design` `SEO` `Frontend` |
-| [![Durum](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-orange?style=flat-square)](https://github.com/kerima-ARAT) | [![Website](https://img.shields.io/badge/Canlı-Siteyi_Görüntüle-success?style=flat-square&logo=google-chrome&logoColor=white)](https://bzmsahinlojistik.com) |
+| [![Durum](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-orange?style=flat-square)](https://github.com/kerim-ARAT) | [![Website](https://img.shields.io/badge/Canlı-Siteyi_Görüntüle-success?style=flat-square&logo=google-chrome&logoColor=white)](https://bzmsahinlojistik.com) |
 
 <br/>
 <hr style="border-top: 1px solid #30363d;">
@@ -157,7 +157,7 @@
         </a>
       </td>
       <td>
-        <a href="https://linkedin.com/in/muhammed-kerim-arat-607a40233/target="_blank">
+        <a href="[https://linkedin.com/in/muhammed-kerim-arat](https://www.linkedin.com/in/muhammed-kerim-arat-607a40233/) target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
       </td>
