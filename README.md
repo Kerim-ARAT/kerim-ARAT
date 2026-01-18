@@ -1,59 +1,216 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=ARAT&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%26%20Architecture&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=300&section=header&text=ARAT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Architect%20%7C%20Full%20Stack%20developer%20%7C%20Entrepreneur&descAlignY=60&descAlign=50" width="100%" alt="Header Background">
+
+  <table border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 800px; margin-top: -20px;">
+    <tr align="center">
+      <td>
+        <a href="#-about-me">
+          <img src="https://img.shields.io/badge/👤_Hakkımda-181717?style=for-the-badge&logoColor=white" alt="About Me">
+        </a>
+      </td>
+      <td>
+        <a href="#-tech-stack">
+          <img src="https://img.shields.io/badge/💻_Teknolojiler-0078D4?style=for-the-badge&logoColor=white" alt="Tech Stack">
+        </a>
+      </td>
+      <td>
+        <a href="#-projects">
+          <img src="https://img.shields.io/badge/🚀_Projeler-2ea44f?style=for-the-badge&logoColor=white" alt="Projects">
+        </a>
+      </td>
+      <td>
+        <a href="#-connect">
+          <img src="https://img.shields.io/badge/🌐_İletişim-b30909?style=for-the-badge&logoColor=white" alt="Contact">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br/><br/>
+
+<h2 id="-about-me" align="center">👨‍💻 Profesyonel Profil</h2>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=24&pause=1000&color=338294&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Mobile+Application+Solutions+(Capacitor);AI+Integration+%26+R%26D" alt="Typing SVG" />
-  </a>
+<table border="0" width="90%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Merhaba, Ben Arat.</h3>
+      <p>
+        Ankara merkezli çalışan, <b>Software Architecture</b> ve <b>Full Stack Development</b> alanlarında uzmanlaşan bir yazılım geliştiricisiyim. 
+        Teknik derinliğimi, kurumsal ihtiyaçlara yönelik ölçeklenebilir çözümler üretmek için kullanıyorum.
+      </p>
+      <p>
+        Şu anda şahıs şirketimi kurma aşamasındayım ve <b>Yapay Zeka (AI)</b> destekli eğitim teknolojileri üzerine AR-GE çalışmaları yürütüyorum.
+        Kodun sadece çalışmasını değil, <b>performanslı</b>, <b>okunabilir</b> ve <b>sürdürülebilir</b> olmasını hedeflerim.
+      </p>
+      <ul>
+        <li>🔭 Şu an üzerinde çalıştığım proje: <b>ask.makam (AI Coach)</b></li>
+        <li>🌱 Öğrenmeye odaklandığım alan: <b>Advanced DevOps & Microservices</b></li>
+        <li>💼 Hedef: <b>Global Software Solutions</b></li>
+        <li>📍 Konum: <b>Ankara, Türkiye</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=338294&center=true&vCenter=true&width=380&lines=System+Architecture;DotNet+Core+%26+Angular;Mobile+Dev+(Capacitor);Artificial+Intelligence" alt="Typing SVG" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Location-Ankara%2C_TR-red?style=flat-square&logo=google-maps&logoColor=white" alt="Ankara">
+    </td>
+  </tr>
+</table>
+</div>
+
+<hr style="border-top: 1px solid #30363d;">
+
+<h2 id="-tech-stack" align="center">🛠️ Teknoloji Mimarisi & Yetkinlikler</h2>
+
+<div align="center">
+<table border="0" width="100%">
+  <tr>
+    <td width="20%" align="center"><b>Backend & Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="20%" align="center"><b>Frontend & UI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="20%" align="center"><b>Mobile Hybrid</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white">
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+      <img src="https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="20%" align="center"><b>Data & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Coolify-6B21A8?style=for-the-badge&logo=server&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+<hr style="border-top: 1px solid #30363d;">
+
+<h2 id="-projects" align="center">🔥 Öne Çıkan Projeler (Portfolio)</h2>
+
+<div align="center">
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px;">
+      <h3 align="center">🕋 ask.makam (AI Coach)</h3>
+      <p align="center">
+        Yapay zeka destekli Kuran ve makam eğitimi platformu. Kullanıcı sesini analiz eder ve intonasyon (makam) doğruluğunu raporlar.
+      </p>
+      <p align="center">
+        <code>.NET 8</code> <code>Angular</code> <code>Python (AI)</code> <code>Microservices</code>
+      </p>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-orange?style=flat-square">
+        </a>
+      </div>
+    </td>
+
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px;">
+      <h3 align="center">🚛 bzmsahinlojistik.com</h3>
+      <p align="center">
+        Şahin Lojistik için geliştirilen kurumsal web arayüzü ve yük takip sistemi. SEO uyumlu, yüksek performanslı mimari.
+      </p>
+      <p align="center">
+        <code>Web Design</code> <code>SEO</code> <code>Hosting Management</code> <code>Frontend</code>
+      </p>
+      <div align="center">
+        <a href="https://bzmsahinlojistik.com">
+           <img src="https://img.shields.io/badge/Canlı-Siteyi_Görüntüle-success?style=flat-square&logo=google-chrome&logoColor=white">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+<hr style="border-top: 1px solid #30363d;">
+
+<h2 align="center">📊 GitHub Performans Analizi</h2>
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kerimarat&show_icons=true&theme=transparent&hide_border=true&title_color=338294&text_color=bfbfbf&icon_color=ffffff&count_private=true&include_all_commits=true" height="160" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimarat&layout=compact&theme=transparent&hide_border=true&title_color=338294&text_color=bfbfbf" height="160" alt="Languages" />
+    </td>
+  </tr>
+</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimarat&theme=transparent&hide_border=true&fire=EB4034&ring=338294&currStreakLabel=Current%20Streak" alt="Streak" />
+</div>
+
+<br/><br/>
+
+<h2 id="-connect" align="center">🤝 İletişim & Ağ</h2>
+
+<div align="center">
+  <p>Projeleriniz veya iş birlikleri için benimle iletişime geçebilirsiniz.</p>
+  
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://kerimarat.com" target="_blank">
+          <img src="https://img.shields.io/badge/Web_Sitesi-kerimarat.com-black?style=for-the-badge&logo=google-chrome&logoColor=338294" alt="Website">
+        </a>
+      </td>
+      <td>
+        <a href="https://linkedin.com/in/kerimarat" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td>
+        <a href="mailto:email@adresiniz.com">
+          <img src="https://img.shields.io/badge/Email-Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/" target="_blank">
+           <img src="https://img.shields.io/badge/Instagram-Takip_Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://kerimarat.com">
-    <img src="https://img.shields.io/badge/Portfolio-kerimarat.com-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kerimarat">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:email@adresiniz.com">
-    <img src="https://img.shields.io/badge/Contact-Email_Me-d93f0b?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  
-  <h3 style="color: #c9d1d9;">CORE EXPERTISE</h3>
-  
-  <p align="center">
-    <code style="color: #8b949e;">BACKEND & ARCHITECTURE</code><br/>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,postgres,mongodb&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0f0f0f,338294,181717"/>
+  <p style="font-size: 10px; color: #555;">
+    © 2024-2025 Arat Software & Technology. All Rights Reserved.<br/>
+    Designed by Arat.
   </p>
-
-  <p align="center">
-    <code style="color: #8b949e;">FRONTEND & MOBILE SOLUTIONS</code><br/>
-    <img src="https://skillicons.dev/icons?i=angular,ts,capacitor,ionic,html,css,tailwind&theme=dark" />
-  </p>
-
-  <p align="center">
-    <code style="color: #8b949e;">DEVOPS & TOOLS</code><br/>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode,figma&theme=dark" />
-  </p>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <h3 style="color: #c9d1d9;">GITHUB ACTIVITY</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=kerimarat&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" alt="stats card" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0D1117,1f2937,338294"/>
 </div>
