@@ -40,10 +40,7 @@
         Ankara merkezli çalışan, <b>Software Architecture</b> ve <b>Full Stack Development</b> alanlarında uzmanlaşan bir yazılım geliştiricisiyim. 
         Teknik derinliğimi, kurumsal ihtiyaçlara yönelik ölçeklenebilir çözümler üretmek için kullanıyorum.
       </p>
-      <p>
-        Şu anda şahıs şirketimi kurma aşamasındayım ve <b>Yapay Zeka (AI)</b> destekli eğitim teknolojileri üzerine AR-GE çalışmaları yürütüyorum.
-        Kodun sadece çalışmasını değil, <b>performanslı</b>, <b>okunabilir</b> ve <b>sürdürülebilir</b> olmasını hedeflerim.
-      </p>
+      
       <ul>
         <li>🔭 Şu an üzerinde çalıştığım proje: <b>ask.makam (AI Coach)</b></li>
         <li>🌱 Öğrenmeye odaklandığım alan: <b>Advanced DevOps & Microservices</b></li>
