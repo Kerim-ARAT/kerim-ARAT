@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:3d2c0a,100:e3b341&height=260&section=header&text=Kerim%20ARAT&fontSize=72&fontColor=f0e6d2&fontAlignY=38&animation=fadeIn&desc=Uygulama%20Geli%C5%9Ftirici&descSize=22&descAlignY=58&descColor=e3b341" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:3d2c0a,100:e3b341&height=260&section=header&text=Kerim%20ARAT&fontSize=72&fontColor=f0e6d2&fontAlignY=45&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -7,8 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Uygulama%20Geli%C5%9Ftirici-161b22?style=for-the-badge&logo=codesandbox&logoColor=e3b341" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Yenilik%C3%A7i-161b22?style=for-the-badge&logo=lightning&logoColor=e3b341" />
 </p>
 
