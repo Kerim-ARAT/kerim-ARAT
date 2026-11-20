@@ -33,7 +33,7 @@
 <h3 align="center">Üretkenlik</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kerim-ARAT&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=e3b341&text_color=c9d1d9&ring_color=e3b341&rank_icon=percentile&count_private=true&include_all_commits=true&locale=tr" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kerim-ARAT&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=e3b341&text_color=c9d1d9&ring_color=e3b341&rank_icon=percentile&locale=tr" />
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim-ARAT&layout=compact&hide_border=true&bg_color=0d1117&title_color=e3b341&text_color=c9d1d9&langs_count=6&locale=tr" />
 </p>
