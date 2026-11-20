@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:3d2c0a,100:e3b341&height=260&section=header&text=Kerim%20ARAT&fontSize=72&fontColor=f0e6d2&fontAlignY=45&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:3d2c0a,100:e3b341&height=220&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -33,13 +33,9 @@
 <h3 align="center">Üretkenlik</h3>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kerim-ARAT&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341&text_color=c9d1d9&ring_color=e3b341&rank_icon=percentile&count_private=true&include_all_commits=true&locale=tr" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kerim-ARAT&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=e3b341&text_color=c9d1d9&ring_color=e3b341&rank_icon=percentile&count_private=true&include_all_commits=true&locale=tr" />
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim-ARAT&layout=compact&hide_border=true&bg_color=0d1117&title_color=e3b341&text_color=c9d1d9&langs_count=6&locale=tr" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kerim-ARAT&hide_border=true&background=0d1117&ring=e3b341&fire=e3b341&currStreakNum=f0e6d2&sideNums=f0e6d2&currStreakLabel=e3b341&sideLabels=8b949e&dates=6e7681&stroke=30363d&locale=tr" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerim-ARAT&layout=compact&hide_border=true&bg_color=0d1117&title_color=e3b341&text_color=c9d1d9&langs_count=6&locale=tr" />
 </p>
 
 <br/>
